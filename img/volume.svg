@@ -1,0 +1,17 @@
+<svg width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.83 0 0 0.83 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 -3.99 0)" >
+<path style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-8.01, -12)" d="M 7.011 9 L 3.511 9 C 2.68257287525381 9 2.011 9.67157287525381 2.011 10.5 L 2.011 13.5 C 2.011 14.32842712474619 2.68257287525381 15 3.511 15 L 7.011 15 L 13.158000000000001 21.146 C 13.300979049547133 21.288533490814068 13.515647725218301 21.331095833029032 13.702193062783545 21.25389711771774 C 13.888738400348789 21.17669840240645 14.010553948513346 20.99488760648221 14.011000000000001 20.793 L 14.011000000000001 3.207 C 14.010553948513344 3.0051123935177895 13.888738400348789 2.8233015975935505 13.702193062783545 2.7461028822822593 C 13.515647725218301 2.668904166970969 13.300979049547133 2.7114665091859345 13.158000000000001 2.854 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 8.5 0)" >
+<path style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-20.5, -12)" d="M 19.011 6 C 20.886525094458516 7.4248034201293684 21.987905551658674 9.644653068875844 21.987905551658674 11.999999999999998 C 21.987905551658674 14.355346931124153 20.88652509445852 16.575196579870628 19.011000000000003 17.999999999999996" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 6.01 0)" >
+<path style="stroke: rgb(0,0,0); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-18.01, -12)" d="M 17.011 8.5 C 19.689 10.447 19.68 13.559999999999999 17.011 15.5" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
